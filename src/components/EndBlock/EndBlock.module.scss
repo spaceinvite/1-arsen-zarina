@@ -1,0 +1,33 @@
+@import '../../assets/scss/main.scss';
+
+.block {
+	display: flex;
+	flex-direction: column;
+	justify-content: end;
+	align-items: center;
+	row-gap: 20px;
+	padding-bottom: 70px;
+
+	width: 100%;
+	height: 100vh;
+
+	background-image: url('../../assets/img/photo-2.jpg');
+	object-fit: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	&Text {
+		font-size: 24px;
+		letter-spacing: 0.05em;
+		text-align: center;
+		color: var(--text-color-light);
+	}
+
+	&Names {
+		font-family: 'Antarctic', sans-serif;
+		font-size: 64px;
+		text-align: center;
+		color: var(--text-color-light);
+	}
+}
