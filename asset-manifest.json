@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/1-arsen-zarina/static/css/main.cd8713fc.css",
+    "main.js": "/1-arsen-zarina/static/js/main.77c8dd38.js",
+    "static/media/music.mp3": "/1-arsen-zarina/static/media/music.d1de205e14ba3d501973.mp3",
+    "static/media/photo-1.jpg": "/1-arsen-zarina/static/media/photo-1.b6e2a70707cc28605de5.jpg",
+    "static/media/location.jpeg": "/1-arsen-zarina/static/media/location.d545a17c9931399eb51f.jpeg",
+    "static/media/bg-image-pc.jpg": "/1-arsen-zarina/static/media/bg-image-pc.60f9a7356a5824f1ad0f.jpg",
+    "static/media/photo-2.jpg": "/1-arsen-zarina/static/media/photo-2.70856b4b3f63ed5930b1.jpg",
+    "index.html": "/1-arsen-zarina/index.html",
+    "main.cd8713fc.css.map": "/1-arsen-zarina/static/css/main.cd8713fc.css.map",
+    "main.77c8dd38.js.map": "/1-arsen-zarina/static/js/main.77c8dd38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd8713fc.css",
+    "static/js/main.77c8dd38.js"
+  ]
+}
